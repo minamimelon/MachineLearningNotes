@@ -57,6 +57,14 @@ Its model file is trained_model_tensor.pt and trained_model_tensor2.pt
 
 ### WeightedVote.ipynb
 
+## Paddle
+
+### image_recognition_paddle.ipynb
+
+### text_classification_paddle.ipynb
+
+Its model file is model_final.pdparams.
+
 # References
 
 [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/)
